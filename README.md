@@ -17,8 +17,6 @@ This project enables users to create, organize, and track their daily tasks with
 9. [Usage](#usage)
 10. [Deployment](#deployment)
 11. [Future Enhancements](#future-enhancements)
-12. [Acknowledgements](#acknowledgements)
-13. [License](#license)
 
 ---
 
