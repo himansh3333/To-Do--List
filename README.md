@@ -1,6 +1,6 @@
-# ✅ To-Do List Web Application
+# ✅ To-Do List 
 
-A **Full Stack To-Do List Application** developed as part of the **Full Stack Development** course.  
+A **Full Stack To-Do List** developed as part of the **Full Stack Development** course.  
 This project enables users to create, organize, and track their daily tasks with a clean, intuitive, and responsive interface.
 
 ---
@@ -21,7 +21,7 @@ This project enables users to create, organize, and track their daily tasks with
 ---
 
 ## 📖 About the Project
-The **To-Do List Web Application** is a productivity tool designed to help users manage their daily activities efficiently.  
+The **To-Do List** is a productivity tool designed to help users manage their daily activities efficiently.  
 It allows users to:
 - Add tasks
 - Edit tasks
