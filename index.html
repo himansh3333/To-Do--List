@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>To Do List & Full Stack Info</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>To Do List & Full Stack Info</h1>
+    
+    <div class="tabs">
+      <button class="tab-btn active" data-tab="todo">To Do List</button>
+      <button class="tab-btn" data-tab="fullstack">Full Stack Info</button>
+    </div>
+
+    <section id="todo" class="section active">
+      <input type="text" id="taskInput" placeholder="Add a new task..." />
+      <button id="addTaskBtn">Add Task</button>
+      <ul id="taskList"></ul>
+    </section>
+
+    <section id="fullstack" class="section">
+      <h2>Full Stack Development</h2>
+      <p>Full stack development means working on both frontend and backend of a web application.</p>
+
+      <h3>Frontend Technologies:</h3>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>React, Angular, Vue.js (Frameworks)</li>
+      </ul>
+
+      <h3>Backend Technologies:</h3>
+      <ul>
+        <li>Node.js</li>
+        <li>Express.js</li>
+        <li>Python (Django, Flask)</li>
+        <li>Java (Spring)</li>
+      </ul>
+
+      <h3>Databases:</h3>
+      <ul>
+        <li>MySQL</li>
+        <li>MongoDB</li>
+        <li>PostgreSQL</li>
+      </ul>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
