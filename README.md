@@ -59,16 +59,7 @@ The application is designed to be **responsive**, **fast**, and **user-friendly*
 - Git & GitHub
 - Postman (API Testing)
 - VS Code
-- Heroku / Render / Vercel (Deployment)
 
----
-
-## 📸 Screenshots
-*(Replace the placeholders below with actual screenshots)*
-
-| Homepage | Adding a Task |
-|----------|---------------|
-| ![Homepage](link_to_homepage_image) | ![Add Task](link_to_add_task_image) |
 
 ---
 
