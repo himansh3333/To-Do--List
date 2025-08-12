@@ -39,7 +39,6 @@ The application is designed to be **responsive**, **fast**, and **user-friendly*
 - **Delete Tasks** — Remove tasks you no longer need.
 - **Responsive Design** — Optimized for all screen sizes.
 - **Data Persistence** — Stores tasks in a database for permanent access.
-- *(Optional)* **Dark Mode** — Switch between light and dark themes.
 
 ---
 
