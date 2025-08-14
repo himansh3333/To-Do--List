@@ -9,14 +9,13 @@ This project enables users to create, organize, and track their daily tasks with
 1. [About the Project](#about-the-project)
 2. [Features](#features)
 3. [Tech Stack](#tech-stack)
-4. [Screenshots](#screenshots)
-5. [Installation](#installation)
-6. [Folder Structure](#folder-structure)
-7. [API Endpoints](#api-endpoints)
-8. [Environment Variables](#environment-variables)
-9. [Usage](#usage)
-10. [Deployment](#deployment)
-11. [Future Enhancements](#future-enhancements)
+4. [Installation](#installation)
+5. [Folder Structure](#folder-structure)
+6. [API Endpoints](#api-endpoints)
+7. [Environment Variables](#environment-variables)
+8. [Usage](#usage)
+9. [Deployment](#deployment)
+10. [Future Enhancements](#future-enhancements)
 
 ---
 
@@ -116,6 +115,10 @@ Create a .env file in the root directory and include:
 
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
+
+🌐 Usage
+
+To record all the tasks in to do list
 
 
 ---
